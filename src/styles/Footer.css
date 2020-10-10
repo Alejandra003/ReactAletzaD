@@ -1,0 +1,17 @@
+/*footer*/
+.footer{ 
+    padding: 30px;
+    margin-bottom: 0px;
+    text-align: center;
+    background-color: #4E4E4E; 
+    align-items: center;
+    display: grid;
+}
+
+#imagen2{
+  justify-content: center;
+  margin-bottom: 25px;
+  margin-top: 25px;
+  height:100px;
+  width:80px;
+}
